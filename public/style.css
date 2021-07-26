@@ -1,0 +1,108 @@
+body {
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 12%, rgba(253, 29, 29, 1) 59%, rgba(252, 176, 69, 1) 100%);
+}
+
+#platform {
+    /*width: 560px;*/
+    /*height: 535px;*/
+	width: 29.166666666666668vw;
+	/*height: 57.097118463180365vh;*/
+	height: 29.166666666666668vw;
+    float: right;
+    /*margin: 10px;*/
+    margin: 0.5208333333333334vw;
+    /*margin-right: 25px;*/
+    margin-right: 1.3020833333333333vw;
+    border-radius: 5px;
+}
+#kolko {
+    /*width: 535px;
+    height: 535px;*/
+	width: 27.864583333333332vw;
+	height: 27.864583333333332vw;
+    float: left;
+    /*margin: 10px;*/
+    margin: 0.5208333333333334vw;
+    border-radius: 5px;
+}
+
+#c1 {
+    background-color: rgba(174, 230, 245, 0.3);
+    width: 30%;
+    float: left;
+    /*margin: 10px;*/
+    margin: 0.520833333333334vw;
+    /*padding: 15px;*/
+    padding: 0.78125vw;
+    border-radius: 5px;
+    height: 325px;
+
+}
+
+#dbt1,
+#dbt2,
+#dbt3 {
+    margin: auto;
+    padding: 10px;
+}
+
+.bt1 {
+    width: 100%;
+    padding: 1%;
+    background-color: forestgreen;
+    border-width: 10px;
+    border-color: darkgreen;
+    border-radius: 5px;
+    color: white;
+    /*font-size: 75px;*/
+    font-size: 3.90625vw;
+    font-family: sans-serif;
+}
+#h1{
+    font-size: 40px;
+    
+}
+
+.bt2,
+.bt3 {
+    width: 100%;
+    padding: 1%;
+    font-family: sans-serif;
+    /*font-size: 36px;*/
+    font-size: 1.875vw;
+    border-width: 5px;
+    background-color: rgba(174, 230, 245, 0.3);
+    border-radius: 3px;
+}
+
+#c2 {
+    background-color: rgba(	144, 238, 144, 0.3);
+    float: left;
+	/*margin: 10px;*/
+    margin: 0.5208333333333334vw;
+    /*padding: 15px;*/
+    padding: 0.78125vw;
+    border-radius: 5px;
+    width: 60%;
+    height: 325px;
+}
+
+#container {
+    display: block;
+    /*width: 1150px;*/
+	width: 59.9vw;
+	height: 137.5vh;
+    background-color: rgba(255, 255, 255, 0.5);
+    margin: 10px auto;
+    border-radius: 10px;
+    /*height: 1260px*/
+}
+
+#baner {
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+}
+
+#foot {
+    float: right;
+}
